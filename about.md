@@ -9,7 +9,7 @@ Since I'm lack of self-discipline at some aspects (workout, wake up on time, des
 
 My interest is data science, I'm in an intro-level now. Please feel free to contact with me if you have the same interest and want to learn it together!
 
-:heart:
+
 
 ### Contact me
 
