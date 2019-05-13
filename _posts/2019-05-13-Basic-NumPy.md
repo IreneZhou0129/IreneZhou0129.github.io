@@ -1,4 +1,7 @@
-## Basics 01
+---
+layout: post
+title: numpy
+---
 
 1. Create an empty numpy array
 ```python
